@@ -44,7 +44,6 @@ This project is ideal for students, data science interns, and ML beginners who w
 * `data_pipeline.py`: The main script.
 * `sample_data.csv`: Simulated dataset.
 * `report.pdf`: Project summary for internship documentation.
-* `preprocessor.pkl`: Serialized transformation pipeline.
 
 ---
 
