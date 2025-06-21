@@ -43,3 +43,8 @@ This project is ideal for students, data science interns, and ML beginners who w
 
 ---
 
+##OUTPUT (FLOWCHAT):
+
+![Image](https://github.com/user-attachments/assets/2bedea96-4ca5-4fd6-9ae4-38475e940c27)
+
+---
