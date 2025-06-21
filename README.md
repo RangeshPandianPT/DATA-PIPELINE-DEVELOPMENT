@@ -14,10 +14,6 @@ MWNTOR : NEELA SANTHOS
 
 ---
 
-Here’s a **GitHub project description** (approx. 250 words) you can use for your repository:
-
----
-
 ## 📊 Data Preprocessing and Transformation Pipeline using Pandas & Scikit-learn
 
 This project demonstrates a complete, modular, and scalable pipeline for data preprocessing, transformation, and loading using powerful Python libraries like **Pandas** and **Scikit-learn**. It is designed for real-world machine learning workflows where clean, well-prepared data is essential for building accurate models.
