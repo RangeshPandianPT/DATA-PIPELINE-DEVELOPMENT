@@ -48,4 +48,3 @@ This project is ideal for students, data science interns, and ML beginners who w
 
 ---
 
-PLOTS AND GRAPH
